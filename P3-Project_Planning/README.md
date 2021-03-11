@@ -7,12 +7,16 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
+https://drive.google.com/file/d/18Jq7fLm5Ss4JMR7onQ4rdAaS9PfXPuPj/view?usp=sharing
+https://drive.google.com/file/d/1kHNvYYLi0eSg6xMs7Ta5xG7PEPO7WedC/view?usp=sharing
+https://drive.google.com/file/d/1PHdIN9zuGiCoUb0dHipjqhGGiro5uyly/view?usp=sharing
+https://drive.google.com/file/d/1GFove8XbsBPUG7CYgFFx4BoWsMRqBxNX/view?usp=sharing
+https://drive.google.com/file/d/1GFove8XbsBPUG7CYgFFx4BoWsMRqBxNX/view?usp=sharing
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
 
 ### Project Tracker
 
-Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
+https://trello.com/invite/b/uDoj3dUs/3b9c63d51de66a4882006f3562592bc4/all-cap-stone.
 
 ### Project Repo Link
 
